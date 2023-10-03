@@ -1,4 +1,4 @@
-//create a web server
+//Create a web server
 var express = require('express');
 var router = express.Router();
 var Comment = require('../models/comment');
